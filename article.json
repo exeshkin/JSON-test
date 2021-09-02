@@ -1,0 +1,38 @@
+{
+	"2021-08-29-23-00-00": {
+		"date": "2021-08-29",
+		"categories": "Служение",
+		"minister": "Анатолий Склонный",
+		"name": "Не проходи через меня",
+		"ytId": "Cp-Ut0XEE4I",
+		"urlMP3": "audio/21-0829_Ne_prohodi_cherez_menya.mp3",
+		"urlScreen": "img/sklonnyi.jpeg"
+	},
+	"2021-08-25-23-00-00": {
+		"date": "2021-08-25",
+		"categories": "Служение",
+		"minister": "Илья Акатов",
+		"name": "Две жатвы, часть 2",
+		"ytId": "vaaZKQLFTfY",
+		"urlMP3": "audio/21-0825_Dve_zhatvy_Sobiranie_Cerkvi_v_Zhitneytcu_i_unichtozhenie_greha_i_bezzakoniia_ch2.mp3",
+		"urlScreen": "img/akatov.jpeg"
+	},
+	"2020-02-08-23-00-00": {
+		"date": "2020-02-08",
+		"categories": "Служение",
+		"minister": "Виктор Фокин",
+		"name": "Новооткрытый Хрситос",
+		"ytId": "VBQruthO9uY",
+		"urlMP3": "audio/2020_02_08_Novootkrytyi_Hristos.mp3",
+		"urlScreen": "img/fokin.jpeg"
+	},
+	"2021-02-07-23-00-00": {
+		"date": "2021-02-07",
+		"categories": "Служение",
+		"minister": "Владимир Иванов",
+		"name": "Четыре Силы",
+		"ytId": "-rYw0ZUjNq8",
+		"urlMP3": "audio/21-0207_Chetyre_Sily.mp3",
+		"urlScreen": "img/ivanov.jpeg"
+	}
+}
